@@ -2,7 +2,7 @@
 
 **Model Context Protocol — from first principles to production systems.**
 
-by [Logeswaran GV](https://www.linkedin.com/in/logeswaran-gv/)
+by [Logeswaran GV](https://www.linkedin.com/in/logeswarangv/)
 
 ---
 
@@ -48,7 +48,8 @@ New content goes live daily. Follow this repo to get notified.
 | Day | Topic | Phase | Link |
 |-----|-------|-------|------|
 | 01 | The AI Context Problem | The WHY | [Read →](./days/Day-01-The-AI-Context-Problem.md) |
-| 02 | How LLMs Actually Work | The WHY | *Available from tomorrow* |
+| 02 | How LLMs Actually Work | The WHY | [Read →](./days/Day-02-How-LLMs-Actually-Work.md) |
+| 03 | The Old Way: Hardcoded Integrations | The WHY | *Available from next day post* |
 
 
 ---
@@ -64,7 +65,7 @@ Before writing a single line of MCP code, you need to understand what problem it
 
 The LinkedIn companion posts for this series go live daily. Each one is a 2-slide carousel paired with a short post that links back here for the full deep dive.
 
-Connect on [LinkedIn](https://www.linkedin.com/in/logeswaran-gv/) if you want the daily updates in your feed.
+Connect on [LinkedIn](https://www.linkedin.com/in/gvlogeswaran/) if you want the daily updates in your feed.
 
 Star this repo if you want GitHub notifications when new days are published.
 
@@ -78,4 +79,4 @@ This series is written from the practitioner's perspective. Every concept connec
 
 ---
 
-*Day 1 is live. Come back tomorrow for Day 2.*
+*Day 2 is live. Come back next post day for Day 3.*
