@@ -58,7 +58,7 @@ Every LLM you've used has the same blind spot — it can't see your database, yo
 
 **Key insight:** The problem isn't the model. The problem is the architecture.
 
-[→ Read Day 1](./Phase1_WHY/Day_01_AI_Context_Problem.md)
+[→ Read Day 1](./Phase1_WHY/Day-01-The-AI-Context-Problem.md)
 
 ---
 
@@ -69,7 +69,7 @@ Before building context systems, you need to understand what you're feeding. Thi
 
 **Key insight:** Every inference starts from zero. Context is the only bridge between the model and your world.
 
-[→ Read Day 2](./Phase1_WHY/Day_02_How_LLMs_Work.md)
+[→ Read Day 2](./Phase1_WHY/Day-02-How-LLMs-Actually-Work.md)
 
 ---
 
@@ -80,7 +80,7 @@ The honest story behind moving from **#100DaysOfMCP** to **#100DaysOfContextEngi
 
 **Key insight:** You can't engineer a context protocol without first understanding what context engineering is.
 
-[→ Read Day 3](./Phase1_WHY/Day_03_Old_Way.md)
+[→ Read Day 3](./Phase1_WHY/Day-03-The-Old-Way-Hardcoded-Integrations.md)
 
 ---
 
