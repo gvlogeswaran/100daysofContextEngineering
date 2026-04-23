@@ -10,7 +10,7 @@ No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructu
 
 [![LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/logeswarangv/)
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day%210%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day%211%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -51,8 +51,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 07 | ✅ Posted | The 5 Enemies of Good Context
 | 08 | ✅ Posted | Context Engineering vs Prompt Engineering
 | 09 | ✅ Posted | The Context Engineering Stack - 6 Layers
-| 10 | 🔥 Today | The Model Matters Less Than You Think
-| 11 | 🔜 Coming Next | The Context Engineering Lifecycle — From Raw Data to Model Response
+| 10 | ✅ Posted | The Model Matters Less Than You Think
+| 11 | 🔥 Today | The Context Engineering Lifecycle — From Raw Data to Model Response
+| 12 | 🔜 Coming Next | Personal experience
 
 
 ---
@@ -130,25 +131,29 @@ The most common misconception in production AI development is conflating Prompt 
 ---
 
 ### ✅ Day 9 — The Context Engineering Stack — 6 Layers
-**The Context Engineering Stack — 6 Layers**
 
 You've heard about RAG. You've implemented retrieval. But your system still feels brittle — queries that should work don't, the agent forgets things it shouldn't, and adding new tools creates unexpected failures elsewhere.
 
 [→ Read Day 9](./Phase1_WHY/Day-09-The-Context-Engineering-Stack.md)
 ---
 
-### 🔥 Day 10 — The Model Matters Less Than You Think
-**The Model Matters Less Than You Think**
+### ✅ Day 10 — The Model Matters Less Than You Think
 
 For years — including through my own production deployments in financial markets — the instinct was to blame the model when something went wrong. The model hallucinated. The model was inconsistent. We need a better model.
 
 [→ Read Day 10](./Phase1_WHY/Day-10-The-Model-Matters.md)
 ---
 
-### 🔜 Day 11 — The Context Engineering Lifecycle — From Raw Data to Model Response
-**The Context Engineering Lifecycle — From Raw Data to Model Response**
+### 🔥  Day 11 — The Context Engineering Lifecycle — From Raw Data to Model Response
 
-Tomorrow will go one level deeper into knowing the architectural layers is different from understanding how information actually moves through them — in real time, in a production system, under operational load.
+This day traces the complete journey a piece of data takes from its origin in your systems to the moment an AI model reasons over it. Seven stages. Each one with distinct responsibilities, failure modes, and engineering decisions. Each one dependent on the stages before it.
+
+[→ Read Day 11](./Phase1_WHY/Day-11-Context-Engineering-LifeCycle.md)
+---
+
+### 🔜 Day 12 — Personal experience
+
+Excited to share my personal experience tomorrow.
 ..
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
@@ -203,5 +208,5 @@ The financial markets lens is not incidental. In electronic trading, context fai
 
 ---
 
-![Progress](https://img.shields.io/badge/Day%210%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day%211%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
