@@ -10,7 +10,7 @@ No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructu
 
 [![LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/logeswarangv/)
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day%211%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day%212%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -52,8 +52,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 08 | ✅ Posted | Context Engineering vs Prompt Engineering
 | 09 | ✅ Posted | The Context Engineering Stack - 6 Layers
 | 10 | ✅ Posted | The Model Matters Less Than You Think
-| 11 | 🔥 Today | The Context Engineering Lifecycle — From Raw Data to Model Response
-| 12 | 🔜 Coming Next | Personal experience
+| 11 | ✅ Posted | The Context Engineering Lifecycle — From Raw Data to Model Response
+| 12 | 🔥 Today | Lessons from Financial Markets Personal experience
+| 13 | 🔜 Coming Next | The Anatomy of a World-Class System Prompt
 
 
 ---
@@ -144,17 +145,27 @@ For years — including through my own production deployments in financial marke
 [→ Read Day 10](./Phase1_WHY/Day-10-The-Model-Matters.md)
 ---
 
-### 🔥  Day 11 — The Context Engineering Lifecycle — From Raw Data to Model Response
+### ✅  Day 11 — The Context Engineering Lifecycle — From Raw Data to Model Response
 
 This day traces the complete journey a piece of data takes from its origin in your systems to the moment an AI model reasons over it. Seven stages. Each one with distinct responsibilities, failure modes, and engineering decisions. Each one dependent on the stages before it.
 
 [→ Read Day 11](./Phase1_WHY/Day-11-Context-Engineering-LifeCycle.md)
 ---
 
-### 🔜 Day 12 — Personal experience
+### 🔥 Day 12 — Personal experience
 
-Excited to share my personal experience tomorrow.
-..
+The reason financial markets produce unusually rigorous engineers is that the cost of context failures is immediate, precise, and unambiguous. You don't get "the output quality degraded slightly." You get a number: this trade lost £X, this regulatory breach cost €Y, this latency spike caused Z milliseconds of wrong decisions.
+
+[→ Read Day 12](./Phase1_WHY/Day-12-personal-experience.md)
+---
+
+
+### 🔜 Day 13 — The Anatomy of a World-Class System Prompt
+
+We will be covering more detail about how the system prompt is the most directly controllable layer of your context engineering stack. Every AI interaction begins here. And yet, most system prompts are incomplete — typically covering role definition and output format while leaving the three critical middle layers undefined.
+
+
+*Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
@@ -208,5 +219,5 @@ The financial markets lens is not incidental. In electronic trading, context fai
 
 ---
 
-![Progress](https://img.shields.io/badge/Day%211%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day%212%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
