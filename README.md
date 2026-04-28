@@ -10,7 +10,7 @@ No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructu
 
 [![LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/logeswarangv/)
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day%213%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day%214%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -54,8 +54,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 10 | ✅ Posted | The Model Matters Less Than You Think
 | 11 | ✅ Posted | The Context Engineering Lifecycle — From Raw Data to Model Response
 | 12 | ✅ Posted | Lessons from Financial Markets Personal experience
-| 13 | 🔥 Today | The Anatomy of a World-Class System Prompt
-| 13 | 🔜 Coming Next | Context debt
+| 13 | ✅ Posted | The Anatomy of a World-Class System Prompt
+| 14 | 🔥 Today | Context Debt: The Silent Killer of AI Systems
+| 15 | 🔜 Coming Next | The 10 Laws of Context Engineering
 
 
 ---
@@ -160,16 +161,23 @@ The reason financial markets produce unusually rigorous engineers is that the co
 [→ Read Day 12](./Phase1_WHY/Day-12-personal-experience.md)
 ---
 
-### 🔥 Day 13 — The Anatomy of a World-Class System Prompt
+### ✅ Day 13 — The Anatomy of a World-Class System Prompt
 
 A system prompt is not a set of instructions. It is a contract between you and the model — defining who the AI is, what it must do, what context it will receive, what it must never do, and what its output must look like. Missing any clause breaks the contract.
 
 [→ Read Day 13](./Phase1_WHY/Day-13-The-System-Prompt.md)
 ---
 
-### 🔜 Day 14 — The Anatomy of a World-Class System Prompt
+### 🔥 Day 14 — The Anatomy of a World-Class System Prompt
 
-We will be covering more detail about Context debt.
+Context debt is like ignoring oil changes. Fine for the first 1,000 miles. Damaging at 50,000. Catastrophic at 100,000. And the engine looked completely normal the entire time.
+
+[→ Read Day 14](./Phase1_WHY/Day-14-The-Context_debt.md)
+---
+
+### 🔜 Day 15 — The Anatomy of a World-Class System Prompt
+
+We will be covering more detail about The 10 Laws of Context Engineering.
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
@@ -223,5 +231,5 @@ The financial markets lens is not incidental. In electronic trading, context fai
 
 ---
 
-![Progress](https://img.shields.io/badge/Day%213%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day%214%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
