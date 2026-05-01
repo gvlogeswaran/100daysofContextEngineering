@@ -58,7 +58,7 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 15 | ✅ Posted | The 10 Laws of Context Engineering
 | 16 | ✅ Posted | System Prompts Are Architecture Documents
 | 17 | 🔥 Today | The 6 Prompt Patterns Every AI Engineer Must Know
-| 17 | 🔜 Coming Next | Chain-of-Thought as Context Scaffolding
+| 18 | 🔜 Coming Next | Chain-of-Thought as Context Scaffolding
 
 
 ---
@@ -195,7 +195,7 @@ Every AI system has a foundation. It's not the model. It's not the data. It's th
 
 Zero-shot, few-shot, chain-of-thought, role, template, and meta-prompts. When to use each.
 
-[→ Read Day 17](./Phase2_Architecture/Day_17_Prompt-pattern.md)
+[→ Read Day 17](./Phase2_Architecture/Day-17-6-Prompt-Patterns.md)
 ---
 
 ### 🔜 Day 18 — The 6 Prompt Patterns Every AI Engineer Must Know
