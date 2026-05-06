@@ -332,7 +332,7 @@ def optimize_prompt(original_prompt):
 | **Prompt Compression** | Removing words while preserving (or improving) output quality. |
 
 #### Official References
-- Anthropic Prompt Optimization Guide → https://docs.anthropic.com/en/docs/build-a-claude-app/prompt-engineering
+- Anthropic Prompt Optimization Guide → https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
 - "Less is More" in Prompt Engineering → https://www.anthropic.com/research
 
 ---

@@ -215,7 +215,7 @@ Few-shot learning in language models is a form of **in-context learning**. The m
 [→ Read Day 19](./Phase2_Architecture/Day-19-few-shot-example.md)
 ---
 
-### 🔥 Day 20 — Few-Shot Examples: The Most Underused Context Tool
+### 🔥 Day 20 — Negative Space in Prompts: What NOT to Include
 
 The shortest clear prompt beats the longest rambling one every time. Mastery is subtraction, not addition.
 

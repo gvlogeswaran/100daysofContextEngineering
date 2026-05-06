@@ -264,7 +264,7 @@ Good: Step N: "Violations found: [list]. Decision: [final]"
 
 #### Official References
 - Wei et al. "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models" → https://arxiv.org/abs/2201.11903
-- Anthropic Chain-of-Thought Guide → https://docs.anthropic.com/en/docs/build-a-claude-app/prompt-engineering
+- Anthropic Chain-of-Thought Guide → https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview
 
 ---
 
