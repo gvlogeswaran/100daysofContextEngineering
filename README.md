@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day%220%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day%221%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -60,8 +60,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 17 | ✅ Posted | The 6 Prompt Patterns Every AI Engineer Must Know
 | 18 | ✅ Posted | Chain-of-Thought as Context Scaffolding
 | 19 | ✅ Posted | Few-Shot Examples: The Most Underused Context Tool
-| 20 | 🔥 Today | Negative Space in Prompts: What NOT to Include
-| 21 | 🔜 Coming Next | Role Prompting vs Persona Prompting
+| 20 | ✅ Posted | Negative Space in Prompts: What NOT to Include
+| 21 | 🔥 Today | Role Prompting vs Persona Prompting
+| 22 | 🔜 Coming Next | Instruction Hierarchy
 
 
 ---
@@ -215,16 +216,23 @@ Few-shot learning in language models is a form of **in-context learning**. The m
 [→ Read Day 19](./Phase2_Architecture/Day-19-few-shot-example.md)
 ---
 
-### 🔥 Day 20 — Negative Space in Prompts: What NOT to Include
+### ✅ Day 20 — Negative Space in Prompts: What NOT to Include
 
 The shortest clear prompt beats the longest rambling one every time. Mastery is subtraction, not addition.
 
 [→ Read Day 20](./Phase2_Architecture/Day-20-Negative-space-in-prompts.md)
 ---
 
-### 🔜 Day 21 — Role Prompting vs Persona Prompting
+### 🔥 Day 21 — Role Prompting vs Persona Prompting
 
-We will be covering more detail about Role Prompting vs Persona Prompting
+Role is what you do. Persona is who you are. One is architecture. One is fiction. Only architecture scales.
+
+[→ Read Day 21](./Phase2_Architecture/Day-21-role-persona-prompting.md)
+---
+
+### 🔜 Day 22 — Instruction Hierarchy: System > User > Assistant
+
+We will be covering more detail about System is law. User is input. Assistant is reasoning. System always wins. Understanding this hierarchy prevents chaos and injection attacks
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
@@ -278,5 +286,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day%220%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day%221%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
