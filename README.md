@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day22%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day23%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -62,8 +62,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 19 | ✅ Posted | Few-Shot Examples: The Most Underused Context Tool
 | 20 | ✅ Posted | Negative Space in Prompts: What NOT to Include
 | 21 | ✅ Posted | Role Prompting vs Persona Prompting
-| 22 | 🔥 Today | Instruction Hierarchy
-| 23 | 🔜 Coming Next | Instruction Hierarchy
+| 22 | ✅ Posted | Instruction Hierarchy
+| 23 | 🔥 Today | Prompt Versioning: Treating Prompts as Production Code
+| 24 | 🔜 Coming Next | Context Compression Techniques
 
 
 ---
@@ -231,7 +232,7 @@ Role is what you do. Persona is who you are. One is architecture. One is fiction
 [→ Read Day 21](./Phase2_Architecture/Day-21-role-persona-prompting.md)
 ---
 
-### 🔥 Day 22 — Instruction Hierarchy: System > User > Assistant
+### ✅ Day 22 — Instruction Hierarchy: System > User > Assistant
 
 System is law. User is input. Assistant is reasoning. System always wins. Understanding this hierarchy prevents chaos and injection attacks.
 
@@ -239,9 +240,17 @@ System is law. User is input. Assistant is reasoning. System always wins. Unders
 ---
 
 
-### 🔜 Day 23 — Prompt Versioning: Treating Prompts as Production Code
+### 🔥 Day 23 — Prompt Versioning: Treating Prompts as Production Code
 
-We will be covering more detail about If you can't rollback a prompt change, you shouldn't deploy it. Version control prevents disasters.
+We will be covering more detail about If you can't rollback a prompt change, you shouldn't deploy it. Version control prevents disasters & Why Prompts Need Versioning.
+
+[→ Read Day 23](./Phase2_Architecture/Day-23-Prompt-versioning.md)
+---
+
+
+### 🔜 Day 24 — Context Compression Techniques
+
+We will be covering more detail about Context Compression Techniques.
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
@@ -295,5 +304,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day22%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day23%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
