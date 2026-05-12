@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day23%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day24%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -63,8 +63,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 20 | ✅ Posted | Negative Space in Prompts: What NOT to Include
 | 21 | ✅ Posted | Role Prompting vs Persona Prompting
 | 22 | ✅ Posted | Instruction Hierarchy
-| 23 | 🔥 Today | Prompt Versioning: Treating Prompts as Production Code
-| 24 | 🔜 Coming Next | Context Compression Techniques
+| 23 | ✅ Posted | Prompt Versioning: Treating Prompts as Production Code
+| 24 | 🔥 Today | Context Compression Techniques
+| 25 | 🔜 Coming Next | Phase 2 Recap: The Prompt Engineering Toolkit
 
 
 ---
@@ -250,7 +251,15 @@ We will be covering more detail about If you can't rollback a prompt change, you
 
 ### 🔜 Day 24 — Context Compression Techniques
 
-We will be covering more detail about Context Compression Techniques.
+You have a 500-page document and a 200K token window. Compression is the art of keeping signal while cutting noise.
+
+[→ Read Day 24](./Phase2_Architecture/Day-24-Context-Compressions.md)
+---
+
+
+### 🔜 Day 25 — Recap of Phase 2
+
+We will be covering more detail about recap of complete Phase 2
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
@@ -304,5 +313,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day23%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day24%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
