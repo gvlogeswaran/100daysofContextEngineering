@@ -64,8 +64,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 21 | ✅ Posted | Role Prompting vs Persona Prompting
 | 22 | ✅ Posted | Instruction Hierarchy
 | 23 | ✅ Posted | Prompt Versioning: Treating Prompts as Production Code
-| 24 | 🔥 Today | Context Compression Techniques
-| 25 | 🔜 Coming Next | Phase 2 Recap: The Prompt Engineering Toolkit
+| 24 | ✅ Posted | Context Compression Techniques
+| 25 | 🔥 Today | Phase 2 Recap: The Prompt Engineering Toolkit
+| 26 | 🔜 Coming Next | Why Static Context Fails at Scale
 
 
 ---
