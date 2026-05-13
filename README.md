@@ -259,7 +259,14 @@ You have a 500-page document and a 200K token window. Compression is the art of 
 
 ### 🔜 Day 25 — Recap of Phase 2
 
-We will be covering more detail about recap of complete Phase 2
+Recap of Phase 2 - Structure beats improvisation. Patterns beat chaos. From theory to practice, from patterns to production
+
+[→ Read Day 25](./Phase2_Architecture/Day-25-Phase2-recap.md)
+---
+
+### 🔜 Day 26 — Why Static Context Fails at Scale
+
+We will be covering more detail about Static context is like reading yesterday's newspaper to make today's trades. Dynamic context is having a Bloomberg terminal connected to your brain
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
