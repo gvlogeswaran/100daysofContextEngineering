@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day25%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day26%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -65,8 +65,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 22 | ✅ Posted | Instruction Hierarchy
 | 23 | ✅ Posted | Prompt Versioning: Treating Prompts as Production Code
 | 24 | ✅ Posted | Context Compression Techniques
-| 25 | 🔥 Today | Phase 2 Recap: The Prompt Engineering Toolkit
-| 26 | 🔜 Coming Next | Why Static Context Fails at Scale
+| 25 | ✅ Posted | Phase 2 Recap: The Prompt Engineering Toolkit
+| 26 | 🔥 Today | Why Static Context Fails at Scale
+| 27 | 🔜 Coming Next | Why Static Context Fails at Scale
 
 
 ---
@@ -258,16 +259,23 @@ You have a 500-page document and a 200K token window. Compression is the art of 
 ---
 
 
-### 🔥 Day 25 — Recap of Phase 2
+### ✅ Day 25 — Recap of Phase 2
 
 Recap of Phase 2 - Structure beats improvisation. Patterns beat chaos. From theory to practice, from patterns to production
 
 [→ Read Day 25](./Phase2_Architecture/Day-25-Phase2-recap.md)
 ---
 
-### 🔜 Day 26 — Why Static Context Fails at Scale
+### 🔥 Day 26 — Why Static Context Fails at Scale
 
-We will be covering more detail about Static context is like reading yesterday's newspaper to make today's trades. Dynamic context is having a Bloomberg terminal connected to your brain
+Static context is like reading yesterday's newspaper to make today's trades. Dynamic context is having a Bloomberg terminal connected to your brain
+
+[→ Read Day 26](./Phase3_Local_First/Day-26-Why-Context-fails.md)
+---
+
+### 🔜 Day 27 — Why Static Context Fails at Scale
+
+We will be covering more detail about Long-Term Memory: Persistent Knowledge
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
@@ -321,5 +329,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day25%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day26%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
