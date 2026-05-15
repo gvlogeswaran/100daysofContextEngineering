@@ -278,7 +278,7 @@ Static context is like reading yesterday's newspaper to make today's trades. Dyn
 
 Moving from foundational context engineering, we now explore production-scale patterns for managing dynamic context in large systems. This covers specialized storage, retrieval optimization, and orchestration of multiple context sources.
 
-[→ Read Day 26](./Phase3_Local_First/Day-27-Long-term-memory.md)
+[→ Read Day 27](./Phase3_Local_First/Day-27-Long-term-memory.md)
 ---
 
 ### 🔜 Day 28 — Why Static Context Fails at Scale
