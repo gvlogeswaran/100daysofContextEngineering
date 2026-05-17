@@ -41,13 +41,12 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 
 | Day | Status | Topic |
 |-----|--------|-------|
-| 01 | ✅ Posted | [→ The AI Context Problem — Why LLMs fail without engineered context](./Phase1_WHY/Day-02-How-LLMs-Actually-Work.md) |
-[→ Read Day 2](./Phase1_WHY/Day-02-How-LLMs-Actually-Work.md)
-| 02 | ✅ Posted | How LLMs Actually Work — Tokens, context windows, statelessness |
-| 03 | ✅ Posted | Why I Changed This Series — The genuine case for Context Engineering |
-| 04 | ✅ Posted | What Is Context Engineering? — The full discipline defined |
-| 05 | ✅ Posted | The 4 Types of Context Every LLM Uses |
-| 06 | ✅ Posted | The Context Window Is Your Most Valuable Real Estate |
+| 01 | ✅ Posted | [The AI Context Problem — Why LLMs fail without engineered context](./Phase1_WHY/Day-02-How-LLMs-Actually-Work.md) |
+| 02 | ✅ Posted | [How LLMs Actually Work — Tokens, context windows, statelessness](./Phase1_WHY/Day-02-How-LLMs-Actually-Work.md) |
+| 03 | ✅ Posted | [Why I Changed This Series — The genuine case for Context Engineering](./Phase1_WHY/Day-03-The-Old-Way-Hardcoded-Integrations.md) |
+| 04 | ✅ Posted | [What Is Context Engineering? — The full discipline defined](./Phase1_WHY/Day-04-ContextEngineering-Intro.md) |
+| 05 | ✅ Posted | [The 4 Types of Context Every LLM Uses](./Phase1_WHY/Day-05-MCP-The-Big-Idea.md) |
+| 06 | ✅ Posted | [The Context Window Is Your Most Valuable Real Estate](./Phase1_WHY/Day-06-Context-window.md) |
 | 07 | ✅ Posted | The 5 Enemies of Good Context |
 | 08 | ✅ Posted | Context Engineering vs Prompt Engineering |
 | 09 | ✅ Posted | The Context Engineering Stack - 6 Layers |
@@ -75,62 +74,22 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 
 ---
 
-## 🗺️ Series Curriculum
-
-### ✅ Day 1 — The AI Context Problem
-**Phase 1: The WHY**
-
-Every LLM you've used has the same blind spot — it can't see your database, your files, or what happened in your business today. This day defines the **Context Gap**: the root cause of most AI agent failures in production.
-
-**Key insight:** The problem isn't the model. The problem is the architecture.
-
-
-
 ---
 
-### ✅ Day 2 — How LLMs Actually Work
-**Phase 1: The WHY**
-
-Before building context systems, you need to understand what you're feeding. This day covers tokens, context windows, statelessness, and the critical difference between **parametric knowledge** (baked into weights) and **contextual knowledge** (what you provide at runtime).
-
-**Key insight:** Every inference starts from zero. Context is the only bridge between the model and your world.
-
-[→ Read Day 2](./Phase1_WHY/Day-02-How-LLMs-Actually-Work.md)
-
----
-
-### ✅ Day 3 — Why I Changed This Series *(Today)*
-**Phase 1: The WHY**
-
-The honest story behind moving from **#100DaysOfMCP** to **#100DaysOfContextEngineering**. MCP is a protocol. Context Engineering is the discipline that gives that protocol meaning. This day explains the 6-layer CE stack, where MCP lives within it, and why the full picture matters — especially in high-stakes environments like financial markets where wrong context means wrong decisions.
-
-**Key insight:** You can't engineer a context protocol without first understanding what context engineering is.
-
-[→ Read Day 3](./Phase1_WHY/Day-03-The-Old-Way-Hardcoded-Integrations.md)
-
----
-
-### ✅ Day 4 — What Is Context Engineering?
-**What Is Context Engineering? — The Full Discipline Defined**
-
-Context Engineering is the complete practice of designing, building, maintaining, and optimising the flow of information into AI systems. It covers everything from how many tokens you have and what they cost, to how you retrieve relevant data, maintain agent memory, craft instructions, orchestrate multi-step workflows, and deliver context through standardised protocols.
-
-[→ Read Day 4](./Phase1_WHY/Day-04-ContextEngineering-Intro.md)
----
 
 ### ✅ Day 5 — Four Types of Context Every LLM Uses
 
 The four types are: Parametric, Instructional, Conversational, and Retrieved. Each has distinct properties, distinct failure modes, and distinct engineering requirements.
 
 
-[→ Read Day 5](./Phase1_WHY/Day-05-MCP-The-Big-Idea.md)
+[→ Read Day 5]
 ---
 
 ### ✅ Day 6 — The Context Window Is Your Most Valuable Real Estate
 
 The context window is a constrained strategic resource. Every token is an investment. Every token in the wrong position reduces the quality of the model's output. And because of a well-documented research finding called "Lost in the Middle," where you place information matters as much as what information you include.
 
-[→ Read Day 6](./Phase1_WHY/Day-06-Context-window.md)
+[→ Read Day 6]
 ---
 
 ### ✅ Day 7 — The 5 Enemies of Good Context
