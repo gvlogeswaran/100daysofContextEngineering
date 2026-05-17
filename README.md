@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day27%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day28%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -41,34 +41,35 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 
 | Day | Status | Topic |
 |-----|--------|-------|
-| 01 | ✅ Posted | The AI Context Problem — Why LLMs fail without engineered context |
+| 01 | ✅ Posted | The AI Context Problem — Why LLMs fail without engineered context | [→ More about Day 1](./Phase1_WHY/Day-01-The-AI-Context-Problem.md)
 | 02 | ✅ Posted | How LLMs Actually Work — Tokens, context windows, statelessness |
 | 03 | ✅ Posted | Why I Changed This Series — The genuine case for Context Engineering |
 | 04 | ✅ Posted | What Is Context Engineering? — The full discipline defined |
-| 05 | ✅ Posted | The 4 Types of Context Every LLM Uses
-| 06 | ✅ Posted | The Context Window Is Your Most Valuable Real Estate
-| 07 | ✅ Posted | The 5 Enemies of Good Context
-| 08 | ✅ Posted | Context Engineering vs Prompt Engineering
-| 09 | ✅ Posted | The Context Engineering Stack - 6 Layers
-| 10 | ✅ Posted | The Model Matters Less Than You Think
-| 11 | ✅ Posted | The Context Engineering Lifecycle — From Raw Data to Model Response
-| 12 | ✅ Posted | Lessons from Financial Markets Personal experience
-| 13 | ✅ Posted | The Anatomy of a World-Class System Prompt
-| 14 | ✅ Posted | Context Debt: The Silent Killer of AI Systems
-| 15 | ✅ Posted | The 10 Laws of Context Engineering
-| 16 | ✅ Posted | System Prompts Are Architecture Documents
-| 17 | ✅ Posted | The 6 Prompt Patterns Every AI Engineer Must Know
-| 18 | ✅ Posted | Chain-of-Thought as Context Scaffolding
-| 19 | ✅ Posted | Few-Shot Examples: The Most Underused Context Tool
-| 20 | ✅ Posted | Negative Space in Prompts: What NOT to Include
-| 21 | ✅ Posted | Role Prompting vs Persona Prompting
-| 22 | ✅ Posted | Instruction Hierarchy
-| 23 | ✅ Posted | Prompt Versioning: Treating Prompts as Production Code
-| 24 | ✅ Posted | Context Compression Techniques
-| 25 | ✅ Posted | Phase 2 Recap: The Prompt Engineering Toolkit
-| 26 | ✅ Posted | Why Static Context Fails at Scale
-| 27 | 🔥 Today | Long-Term Memory: Persistent Knowledge
-| 28 | 🔜 Coming Next | RAG at Scale: Vector Databases and Indexing
+| 05 | ✅ Posted | The 4 Types of Context Every LLM Uses |
+| 06 | ✅ Posted | The Context Window Is Your Most Valuable Real Estate |
+| 07 | ✅ Posted | The 5 Enemies of Good Context |
+| 08 | ✅ Posted | Context Engineering vs Prompt Engineering |
+| 09 | ✅ Posted | The Context Engineering Stack - 6 Layers |
+| 10 | ✅ Posted | The Model Matters Less Than You Think |
+| 11 | ✅ Posted | The Context Engineering Lifecycle — From Raw Data to Model Response |
+| 12 | ✅ Posted | Lessons from Financial Markets Personal experience |
+| 13 | ✅ Posted | The Anatomy of a World-Class System Prompt |
+| 14 | ✅ Posted | Context Debt: The Silent Killer of AI Systems |
+| 15 | ✅ Posted | The 10 Laws of Context Engineering |
+| 16 | ✅ Posted | System Prompts Are Architecture Documents |
+| 17 | ✅ Posted | The 6 Prompt Patterns Every AI Engineer Must Know |
+| 18 | ✅ Posted | Chain-of-Thought as Context Scaffolding |
+| 19 | ✅ Posted | Few-Shot Examples: The Most Underused Context Tool |
+| 20 | ✅ Posted | Negative Space in Prompts: What NOT to Include |
+| 21 | ✅ Posted | Role Prompting vs Persona Prompting |
+| 22 | ✅ Posted | Instruction Hierarchy |
+| 23 | ✅ Posted | Prompt Versioning: Treating Prompts as Production Code |
+| 24 | ✅ Posted | Context Compression Techniques |
+| 25 | ✅ Posted | Phase 2 Recap: The Prompt Engineering Toolkit |
+| 26 | ✅ Posted | Why Static Context Fails at Scale |
+| 27 | ✅ Posted | Long-Term Memory: Persistent Knowledge |
+| 28 | 🔥 Today | Chunking Strategy |
+| 29 | 🔜 Coming Next | Embedding Models: Choosing the Right One |
 
 
 ---
@@ -82,7 +83,7 @@ Every LLM you've used has the same blind spot — it can't see your database, yo
 
 **Key insight:** The problem isn't the model. The problem is the architecture.
 
-[→ Read Day 1](./Phase1_WHY/Day-01-The-AI-Context-Problem.md)
+
 
 ---
 
@@ -274,16 +275,23 @@ Static context is like reading yesterday's newspaper to make today's trades. Dyn
 [→ Read Day 26](./Phase3_Local_First/Day-26-Why-Context-fails.md)
 ---
 
-### 🔥 Day 27 — Why Static Context Fails at Scale
+### ✅ Day 27 — Why Static Context Fails at Scale
 
 Moving from foundational context engineering, we now explore production-scale patterns for managing dynamic context in large systems. This covers specialized storage, retrieval optimization, and orchestration of multiple context sources.
 
 [→ Read Day 27](./Phase3_Local_First/Day-27-Long-term-memory.md)
 ---
 
-### 🔜 Day 28 — Why Static Context Fails at Scale
+### 🔥 Day 28 — Why Static Context Fails at Scale
 
-We will be covering more detail about RAG at Scale: Vector Databases and Indexing
+Chunking is like cutting up a novel to feed it to a speed reader. Cut every sentence, and the reader loses plot. Cut by chapter, and the reader remembers the story.
+
+[→ Read Day 28](./Phase3_Local_First/Day-28-Chunking-strategy.md)
+---
+
+### 🔜 Day 29 — Embedding Models: Choosing the Right One
+
+We will be covering more detail about Embedding Models: Choosing the Right One
 
 *Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
 
@@ -301,10 +309,6 @@ We will be covering more detail about RAG at Scale: Vector Databases and Indexin
 ├── Phase6_Clients/            ← Days 76–82  · Multi-Agent Clients & Hosts
 ├── Phase7_Advanced/           ← Days 83–90  · Advanced Multi-Agent Patterns
 ├── Phase8_Capstone/           ← Days 91–100 · Enterprise Capstone & Mastery
-├── Github/                    ← Deep-dive articles (published days only)
-├── Instagram/                 ← Instagram caption files
-├── Carousel/                  ← LinkedIn carousel PDFs
-└── _template/                 ← Reusable daily post template
 ```
 
 ---
@@ -337,5 +341,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day27%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day28%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
