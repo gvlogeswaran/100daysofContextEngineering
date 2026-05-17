@@ -41,7 +41,7 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 
 | Day | Status | Topic |
 |-----|--------|-------|
-| 01 | ✅ Posted | The AI Context Problem — Why LLMs fail without engineered context | [→ More about Day 1](./Phase1_WHY/Day-01-The-AI-Context-Problem.md)
+| 01 | ✅ Posted | [→ The AI Context Problem — Why LLMs fail without engineered context ] (./Phase1_WHY/Day-01-The-AI-Context-Problem.md)
 | 02 | ✅ Posted | How LLMs Actually Work — Tokens, context windows, statelessness |
 | 03 | ✅ Posted | Why I Changed This Series — The genuine case for Context Engineering |
 | 04 | ✅ Posted | What Is Context Engineering? — The full discipline defined |
