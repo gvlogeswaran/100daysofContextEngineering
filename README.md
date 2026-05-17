@@ -47,214 +47,32 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 04 | ✅ Posted | [What Is Context Engineering? — The full discipline defined](./Phase1_WHY/Day-04-ContextEngineering-Intro.md) |
 | 05 | ✅ Posted | [The 4 Types of Context Every LLM Uses](./Phase1_WHY/Day-05-MCP-The-Big-Idea.md) |
 | 06 | ✅ Posted | [The Context Window Is Your Most Valuable Real Estate](./Phase1_WHY/Day-06-Context-window.md) |
-| 07 | ✅ Posted | The 5 Enemies of Good Context |
-| 08 | ✅ Posted | Context Engineering vs Prompt Engineering |
-| 09 | ✅ Posted | The Context Engineering Stack - 6 Layers |
-| 10 | ✅ Posted | The Model Matters Less Than You Think |
-| 11 | ✅ Posted | The Context Engineering Lifecycle — From Raw Data to Model Response |
-| 12 | ✅ Posted | Lessons from Financial Markets Personal experience |
-| 13 | ✅ Posted | The Anatomy of a World-Class System Prompt |
-| 14 | ✅ Posted | Context Debt: The Silent Killer of AI Systems |
-| 15 | ✅ Posted | The 10 Laws of Context Engineering |
-| 16 | ✅ Posted | System Prompts Are Architecture Documents |
-| 17 | ✅ Posted | The 6 Prompt Patterns Every AI Engineer Must Know |
-| 18 | ✅ Posted | Chain-of-Thought as Context Scaffolding |
-| 19 | ✅ Posted | Few-Shot Examples: The Most Underused Context Tool |
-| 20 | ✅ Posted | Negative Space in Prompts: What NOT to Include |
-| 21 | ✅ Posted | Role Prompting vs Persona Prompting |
-| 22 | ✅ Posted | Instruction Hierarchy |
-| 23 | ✅ Posted | Prompt Versioning: Treating Prompts as Production Code |
-| 24 | ✅ Posted | Context Compression Techniques |
-| 25 | ✅ Posted | Phase 2 Recap: The Prompt Engineering Toolkit |
-| 26 | ✅ Posted | Why Static Context Fails at Scale |
-| 27 | ✅ Posted | Long-Term Memory: Persistent Knowledge |
-| 28 | 🔥 Today | Chunking Strategy |
+| 07 | ✅ Posted | [The 5 Enemies of Good Context](./Phase1_WHY/Day-07-Well-allocated-context.md) |
+| 08 | ✅ Posted | [Context Engineering vs Prompt Engineering](./Phase1_WHY/Day-08-Context-vs-Promt-Engineering.md) |
+| 09 | ✅ Posted | [The Context Engineering Stack - 6 Layers](./Phase1_WHY/Day-09-The-Context-Engineering-Stack.md) |
+| 10 | ✅ Posted | [The Model Matters Less Than You Think](./Phase1_WHY/Day-10-The-Model-Matters.md) |
+| 11 | ✅ Posted | [The Context Engineering Lifecycle — From Raw Data to Model Response](./Phase1_WHY/Day-11-Context-Engineering-LifeCycle.md) |
+| 12 | ✅ Posted | [Lessons from Financial Markets Personal experience](./Phase1_WHY/Day-12-personal-experience.md) |
+| 13 | ✅ Posted | [The Anatomy of a World-Class System Prompt](./Phase1_WHY/Day-13-The-System-Prompt.md) |
+| 14 | ✅ Posted | [Context Debt: The Silent Killer of AI Systems](./Phase1_WHY/Day-14-The-Context_debt.md) |
+| 15 | ✅ Posted | [The 10 Laws of Context Engineering](./Phase1_WHY/Day-15-Context-Engineering-laws.md) |
+| 16 | ✅ Posted | [System Prompts Are Architecture Documents](./Phase2_Architecture/Day-16-System-Prompts.md) |
+| 17 | ✅ Posted | [The 6 Prompt Patterns Every AI Engineer Must Know](./Phase2_Architecture/Day-17-6-Prompt-Patterns.md) |
+| 18 | ✅ Posted | [Chain-of-Thought as Context Scaffolding](./Phase2_Architecture/Day-18-Chain-of-thoughts.md) |
+| 19 | ✅ Posted | [Few-Shot Examples: The Most Underused Context Tool](./Phase2_Architecture/Day-19-few-shot-example.md) |
+| 20 | ✅ Posted | [Negative Space in Prompts: What NOT to Include](./Phase2_Architecture/Day-20-Negative-space-in-prompts.md) |
+| 21 | ✅ Posted | [Role Prompting vs Persona Prompting](./Phase2_Architecture/Day-21-role-persona-prompting.md) |
+| 22 | ✅ Posted | [Instruction Hierarchy](./Phase2_Architecture/Day-22-Instruction-Hierarchy.md) |
+| 23 | ✅ Posted | [Prompt Versioning: Treating Prompts as Production Code](./Phase2_Architecture/Day-23-Prompt-versioning.md) |
+| 24 | ✅ Posted | [Context Compression Techniques](./Phase2_Architecture/Day-24-Context-Compressions.md) |
+| 25 | ✅ Posted | [Phase 2 Recap: The Prompt Engineering Toolkit](./Phase2_Architecture/Day-25-Phase2-recap.md) |
+| 26 | ✅ Posted | [Why Static Context Fails at Scale](./Phase3_Local_First/Day-26-Why-Context-fails.md) |
+| 27 | ✅ Posted | [Long-Term Memory: Persistent Knowledge](./Phase3_Local_First/Day-27-Long-term-memory.md) |
+| 28 | 🔥 Today | [Chunking Strategy](./Phase3_Local_First/Day-28-Chunking-strategy.md) |
 | 29 | 🔜 Coming Next | Embedding Models: Choosing the Right One |
 
 
 ---
-
----
-
-
-### ✅ Day 5 — Four Types of Context Every LLM Uses
-
-The four types are: Parametric, Instructional, Conversational, and Retrieved. Each has distinct properties, distinct failure modes, and distinct engineering requirements.
-
-
-[→ Read Day 5]
----
-
-### ✅ Day 6 — The Context Window Is Your Most Valuable Real Estate
-
-The context window is a constrained strategic resource. Every token is an investment. Every token in the wrong position reduces the quality of the model's output. And because of a well-documented research finding called "Lost in the Middle," where you place information matters as much as what information you include.
-
-[→ Read Day 6]
----
-
-### ✅ Day 7 — The 5 Enemies of Good Context
-
-The culprit is almost always one of five context quality enemies: noise, contradiction, staleness, over-compression, and under-specification. These are the silent killers of production AI systems. They're invisible until something breaks, and they're entirely within the Context Engineer's control to prevent.
-
-[→ Read Day 7](./Phase1_WHY/Day-07-Well-allocated-context.md)
----
-
-### ✅ Day 8 — Context Engineering vs Prompt Engineering
-
-The most common misconception in production AI development is conflating Prompt Engineering with Context Engineering. They are related but fundamentally different disciplines — and understanding the relationship between them determines whether your AI systems scale or plateau.
-
-[→ Read Day 8](./Phase1_WHY/Day-08-Context-vs-Promt-Engineering.md)
----
-
-### ✅ Day 9 — The Context Engineering Stack — 6 Layers
-
-You've heard about RAG. You've implemented retrieval. But your system still feels brittle — queries that should work don't, the agent forgets things it shouldn't, and adding new tools creates unexpected failures elsewhere.
-
-[→ Read Day 9](./Phase1_WHY/Day-09-The-Context-Engineering-Stack.md)
----
-
-### ✅ Day 10 — The Model Matters Less Than You Think
-
-For years — including through my own production deployments in financial markets — the instinct was to blame the model when something went wrong. The model hallucinated. The model was inconsistent. We need a better model.
-
-[→ Read Day 10](./Phase1_WHY/Day-10-The-Model-Matters.md)
----
-
-### ✅  Day 11 — The Context Engineering Lifecycle — From Raw Data to Model Response
-
-This day traces the complete journey a piece of data takes from its origin in your systems to the moment an AI model reasons over it. Seven stages. Each one with distinct responsibilities, failure modes, and engineering decisions. Each one dependent on the stages before it.
-
-[→ Read Day 11](./Phase1_WHY/Day-11-Context-Engineering-LifeCycle.md)
----
-
-### ✅ Day 12 — Personal experience
-
-The reason financial markets produce unusually rigorous engineers is that the cost of context failures is immediate, precise, and unambiguous. You don't get "the output quality degraded slightly." You get a number: this trade lost £X, this regulatory breach cost €Y, this latency spike caused Z milliseconds of wrong decisions.
-
-[→ Read Day 12](./Phase1_WHY/Day-12-personal-experience.md)
----
-
-### ✅ Day 13 — The Anatomy of a World-Class System Prompt
-
-A system prompt is not a set of instructions. It is a contract between you and the model — defining who the AI is, what it must do, what context it will receive, what it must never do, and what its output must look like. Missing any clause breaks the contract.
-
-[→ Read Day 13](./Phase1_WHY/Day-13-The-System-Prompt.md)
----
-
-### ✅ Day 14 — The Anatomy of a World-Class System Prompt
-
-Context debt is like ignoring oil changes. Fine for the first 1,000 miles. Damaging at 50,000. Catastrophic at 100,000. And the engine looked completely normal the entire time.
-
-[→ Read Day 14](./Phase1_WHY/Day-14-The-Context_debt.md)
----
-
-### ✅ Day 15 — The 10 Laws of Context Engineering
-
-These 10 laws are like the periodic table of context engineering. Not everything is on the table, but everything important is. Master these and you can build any context system.
-
-[→ Read Day 15](./Phase1_WHY/Day-15-Context-Engineering-laws.md)
----
-
-### ✅ Day 16 — System Prompts Are Architecture Documents
-
-Every AI system has a foundation. It's not the model. It's not the data. It's the **System Prompt**. 📋🧠 This 200-word block of text defines every decision the model will make. Get it wrong, and you have hallucinations. Get it right, and you have production-grade reasoning
-
-[→ Read Day 16](./Phase2_Architecture/Day-16-System-Prompts.md)
----
-
-### ✅ Day 17 — The 6 Prompt Patterns Every AI Engineer Must Know
-
-Zero-shot, few-shot, chain-of-thought, role, template, and meta-prompts. When to use each.
-
-[→ Read Day 17](./Phase2_Architecture/Day-17-6-Prompt-Patterns.md)
----
-
-### ✅ Day 18 — Chain-of-Thought as Context Scaffolding
-
-CoT doesn't change the model. It changes the **context structure** that guides the model's output generation.
-
-[→ Read Day 18](./Phase2_Architecture/Day-18-Chain-of-thoughts.md)
----
-
-### ✅ Day 19 — Few-Shot Examples: The Most Underused Context Tool
-
-Few-shot learning in language models is a form of **in-context learning**. The model doesn't update its weights. Instead, it uses the examples as additional context to predict the next token.
-
-[→ Read Day 19](./Phase2_Architecture/Day-19-few-shot-example.md)
----
-
-### ✅ Day 20 — Negative Space in Prompts: What NOT to Include
-
-The shortest clear prompt beats the longest rambling one every time. Mastery is subtraction, not addition.
-
-[→ Read Day 20](./Phase2_Architecture/Day-20-Negative-space-in-prompts.md)
----
-
-### ✅ Day 21 — Role Prompting vs Persona Prompting
-
-Role is what you do. Persona is who you are. One is architecture. One is fiction. Only architecture scales.
-
-[→ Read Day 21](./Phase2_Architecture/Day-21-role-persona-prompting.md)
----
-
-### ✅ Day 22 — Instruction Hierarchy: System > User > Assistant
-
-System is law. User is input. Assistant is reasoning. System always wins. Understanding this hierarchy prevents chaos and injection attacks.
-
-[→ Read Day 22](./Phase2_Architecture/Day-22-Instruction-Hierarchy.md)
----
-
-
-### ✅ Day 23 — Prompt Versioning: Treating Prompts as Production Code
-
-We will be covering more detail about If you can't rollback a prompt change, you shouldn't deploy it. Version control prevents disasters & Why Prompts Need Versioning.
-
-[→ Read Day 23](./Phase2_Architecture/Day-23-Prompt-versioning.md)
----
-
-
-### ✅ Day 24 — Context Compression Techniques
-
-You have a 500-page document and a 200K token window. Compression is the art of keeping signal while cutting noise.
-
-[→ Read Day 24](./Phase2_Architecture/Day-24-Context-Compressions.md)
----
-
-
-### ✅ Day 25 — Recap of Phase 2
-
-Recap of Phase 2 - Structure beats improvisation. Patterns beat chaos. From theory to practice, from patterns to production
-
-[→ Read Day 25](./Phase2_Architecture/Day-25-Phase2-recap.md)
----
-
-### ✅ Day 26 — Why Static Context Fails at Scale
-
-Static context is like reading yesterday's newspaper to make today's trades. Dynamic context is having a Bloomberg terminal connected to your brain
-
-[→ Read Day 26](./Phase3_Local_First/Day-26-Why-Context-fails.md)
----
-
-### ✅ Day 27 — Why Static Context Fails at Scale
-
-Moving from foundational context engineering, we now explore production-scale patterns for managing dynamic context in large systems. This covers specialized storage, retrieval optimization, and orchestration of multiple context sources.
-
-[→ Read Day 27](./Phase3_Local_First/Day-27-Long-term-memory.md)
----
-
-### 🔥 Day 28 — Why Static Context Fails at Scale
-
-Chunking is like cutting up a novel to feed it to a speed reader. Cut every sentence, and the reader loses plot. Cut by chapter, and the reader remembers the story.
-
-[→ Read Day 28](./Phase3_Local_First/Day-28-Chunking-strategy.md)
----
-
-### 🔜 Day 29 — Embedding Models: Choosing the Right One
-
-We will be covering more detail about Embedding Models: Choosing the Right One
-
-*Follow on [LinkedIn](https://www.linkedin.com/in/logeswarangv/) or ⭐ star this repo to be notified.*
-
 
 ## 🗂️ Repository Structure
 
