@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day29%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day30%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -69,8 +69,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 26 | ✅ Posted | [Why Static Context Fails at Scale](./Phase3_Local_First/Day-26-Why-Context-fails.md) |
 | 27 | ✅ Posted | [Long-Term Memory: Persistent Knowledge](./Phase3_Local_First/Day-27-Long-term-memory.md) |
 | 28 | ✅ Posted | [Chunking Strategy](./Phase3_Local_First/Day-28-Chunking-strategy.md) |
-| 29 | 🔥 Today | [Embedding Models: Choosing the Right One](./Phase3_Local_First/Day-29-Embedding-Models.md) |
-| 30 | 🔜 Coming Next | DynamoDB for Memory State Management |
+| 29 | ✅ Posted | [Embedding Models: Choosing the Right One](./Phase3_Local_First/Day-29-Embedding-Models.md) |
+| 30 | 🔥 Today | [DynamoDB for Memory State Management](./Phase3_Local_First/Day-30-Vector-database.md) |
+| 31 | 🔜 Coming Next | Hybrid Search: Why Keyword + Semantic Beats Both Alone |
 
 
 ---
@@ -120,5 +121,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day29%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day30%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
