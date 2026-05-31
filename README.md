@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day32%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day33%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -73,7 +73,8 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 30 | ✅ Posted | [DynamoDB for Memory State Management](./Phase3_Local_First/Day-30-Vector-database.md) |
 | 31 | ✅ Posted | [Hybrid Search: Why Keyword + Semantic Beats Both Alone](./Phase3_Local_First/Day-31-Hybrid-search.md) |
 | 32 | 🔥 Today | [RAG Quality: The RAGAS Framework and Evaluation](./Phase3_Local_First/Day-32-RAG-quality.md) |
-| 33 | 🔜 Coming Next | Re-ranking: The Secret Weapon in Production RAG |
+| 33 | 🔥 Today | [Re-ranking: The Secret Weapon in Production RAG](./Phase3_Local_First/Day-33-ReRanking.md) |
+| 34 | 🔜 Coming Next | AWS Bedrock Knowledge Bases: RAG Without the Plumbing |
 
 
 ---
@@ -123,5 +124,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day32%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day33%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
