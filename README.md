@@ -72,7 +72,7 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 29 | ✅ Posted | [Embedding Models: Choosing the Right One](./Phase3_Local_First/Day-29-Embedding-Models.md) |
 | 30 | ✅ Posted | [DynamoDB for Memory State Management](./Phase3_Local_First/Day-30-Vector-database.md) |
 | 31 | ✅ Posted | [Hybrid Search: Why Keyword + Semantic Beats Both Alone](./Phase3_Local_First/Day-31-Hybrid-search.md) |
-| 32 | 🔥 Today | [RAG Quality: The RAGAS Framework and Evaluation](./Phase3_Local_First/Day-32-RAG-quality.md) |
+| 32 | ✅ Posted | [RAG Quality: The RAGAS Framework and Evaluation](./Phase3_Local_First/Day-32-RAG-quality.md) |
 | 33 | 🔥 Today | [Re-ranking: The Secret Weapon in Production RAG](./Phase3_Local_First/Day-33-ReRanking.md) |
 | 34 | 🔜 Coming Next | AWS Bedrock Knowledge Bases: RAG Without the Plumbing |
 
