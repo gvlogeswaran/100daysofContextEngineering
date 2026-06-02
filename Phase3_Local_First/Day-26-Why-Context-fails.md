@@ -280,4 +280,4 @@ RAG handles retrieval of external documents. But what about what the AI needs to
 
 ---
 
-[← Day 25](../Phase2_Architecture/Day-25-Phase2-recap.md) | [Day 27 →](./Day-27-Long-Term-Memory.md)
+[← Day 25](../Phase2_Architecture/Day-25-Phase2-recap.md) | [Day 27 →](./Day-27-Long-term-memory.md)

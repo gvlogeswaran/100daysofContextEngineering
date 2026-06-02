@@ -415,4 +415,4 @@ Memory handles what we know about *users*. RAG handles what we know about *the w
 
 *#100DaysOfContextEngineering #ContextEngineering #LongTermMemory #RAG #DynamoDB #AWSBedrock #PersistentContext #AWSCommunityBuilder*
 
-[← Day 26](./Day-26-Why-Context-fails.md) | [Day 28 →](./Day-28-Chunking-Strategies.md)
+[← Day 26](./Day-26-Why-Context-fails.md) | [Day 28 →](./Day-28-Chunking-strategy.md)
