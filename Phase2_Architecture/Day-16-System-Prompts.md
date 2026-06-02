@@ -167,6 +167,4 @@ Result: Risk prevented. Audit trail clear.
 
 ---
 
-*#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
-
-[← Day 15](./Day-15-Context-Engineering-laws.md) | [Day 17 →](./Day-17-6-Prompt-Patterns.md)
+[← Day 15](../Phase1_WHY/Day-15-Context-Engineering-laws.md) | [Day 17 →](./Day-17-6-Prompt-Patterns.md)

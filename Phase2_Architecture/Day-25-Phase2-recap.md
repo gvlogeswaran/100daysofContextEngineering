@@ -408,6 +408,4 @@ Phase 3 begins tomorrow: **Dynamic Context** — bringing live data, user intera
 
 ---
 
-*#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
-
-[← Day 24](./Day-24-Context-Compressions.md) | [Day 26 →](./Day-26-Why-Context-fails.md)
+[← Day 24](./Day-24-Context-Compressions.md) | [Day 26 →](../Phase3_Local_First/Day-26-Why-Context-fails.md)
