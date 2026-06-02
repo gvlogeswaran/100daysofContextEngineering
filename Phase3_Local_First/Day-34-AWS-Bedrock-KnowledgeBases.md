@@ -213,8 +213,19 @@ print(f"Estimated monthly cost: ${costs['total_monthly']:.2f}")
 
 #### 7. When KB vs Custom RAG
 
-| Aspect | KB | Custom |
-|
+| Aspect | Bedrock Knowledge Base (KB) | Custom RAG Pipeline |
+| :--- | :--- | :--- |
+| **Setup Time** | Minutes to Hours | Days to Weeks |
+| **Infrastructure Management** | Fully managed (OpenSearch Serverless abstracted away) | Self-managed (Vector DB provisioning, scaling, ingestion pipelines) |
+| **Data Parsing & Chunking** | Standardized (Fixed-size, basic Semantic chunking natively supported) | Infinite flexibility (Custom OCR, structural chunking, complex table extraction) |
+| **Model Choice** | Limited to Bedrock-supported embedding and generation models | Unlimited (Any open-source, HuggingFace, OpenAI, or local models) |
+| **Baseline Cost** | High baseline (Requires minimum OCUs for OpenSearch, ~$1.7k/mo) | Can be very low (e.g., utilizing existing RDS with pgvector, or free-tier SaaS Vector DBs) |
+| **Best For** | Enterprises prioritizing speed-to-market, low maintenance, and staying entirely within the AWS ecosystem | Specialized use cases requiring advanced retrieval tuning, complex document parsing, or strict budget constraints |
+
+### Summary
+
+AWS Bedrock Knowledge Bases act as a massive accelerator for standard RAG workloads, drastically reducing the boilerplate code needed to connect data sources to vector databases and generation APIs. You trade granular control and low baseline costs for immediate production readiness and zero infrastructure maintenance. If your documents are standard text/PDFs and you have the enterprise budget for the OpenSearch Serverless baseline, it is the most efficient path to production.
+
 ---
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
