@@ -128,9 +128,17 @@ class RAGWithReranking:
 #### 5. Re-ranking Benchmarks
 
 | Stage | Latency | Accuracy | Best Use |
-|
+| :--- | :--- | :--- | :--- |
+| **Bi-encoder (Vector Search)** | Low (~10-50ms) | Good (Recall-optimized) | Initial broad retrieval to cast a wide net (Top 50-100 candidates). |
+| **Cross-encoder (Re-ranking)** | High (~100-500ms) | Excellent (Precision-optimized) | Final sorting and filtering of candidates (Top 5-10). |
+| **LLM (Generation)** | Very High (1s+) | N/A (Synthesis) | Reading the highly curated context to generate the final user answer. |
+
+### Summary
+
+Re-ranking is the bridge between raw vector similarity and true semantic relevance. Standard vector search is great for finding documents that are *thematically* similar, but it often misses the nuanced relationship between the query and the text. By retrieving broadly (high recall) with a fast bi-encoder, and then scoring strictly (high precision) with a cross-encoder, you ensure your LLM only receives the highest-quality context. This reduces hallucinations, improves answer quality, and saves money on input tokens by trimming irrelevant context before it ever reaches the generation phase.
+
 ---
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 32](./Day-32-MCP-Inspector-Tool.md) | [Day 34 →](./Day-34-Server-Side-Logging.md)
+[← Day 32](./Phase3_Local_First/Day-32-RAG-quality.md) | [Day 34 →](./Phase3_Local_First/Day-34-AWS-Bedrock-KnowledgeBases.md)
