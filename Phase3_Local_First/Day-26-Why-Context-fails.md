@@ -282,4 +282,4 @@ RAG handles retrieval of external documents. But what about what the AI needs to
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #DynamicContext #RetrievalAugmentedGeneration #AWSCommunityBuilder #FinancialMarkets*
 
-[← Day 25](./Day-25-Phase-2-Recap.md) | [Day 27 →](./Day-27-Long-Term-Memory.md)
+[← Day 25](./Phase2_Architecture/Day-25-Phase-2-Recap.md) | [Day 27 →](./Day-27-Long-Term-Memory.md)
