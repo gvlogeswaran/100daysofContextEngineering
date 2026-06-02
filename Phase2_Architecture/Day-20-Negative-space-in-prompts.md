@@ -339,4 +339,4 @@ def optimize_prompt(original_prompt):
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 19](./Day-19-Protocol-Versioning.md) | [Day 21 →](./Day-21-Client-Features-Overview.md)
+[← Day 19](./Day-19-few-shot-example.md) | [Day 21 →](./Day-21-role-persona-prompting.md)

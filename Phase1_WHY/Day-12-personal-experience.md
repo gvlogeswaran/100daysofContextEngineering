@@ -352,4 +352,4 @@ Phase 2 moves to implementation. We start with the most directly controllable la
 
 *#100DaysOfContextEngineering #ContextEngineering #FinancialMarkets #ProductionAI #AIEngineering #AWSCommunityBuilder*
 
-[← Day 11](./Day-11-MCP-Architecture-Overview.md) | [Phase 2 Begins: Day 13 →](./Day-13-The-MCP-Client.md)
+[← Day 11](./Day-11-Context-Engineering-LifeCycle.md) | [Phase 2 Begins: Day 13 →](./Day-13-The-System-Prompt.md)

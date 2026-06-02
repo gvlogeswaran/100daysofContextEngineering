@@ -403,4 +403,4 @@ With all 14 foundational concepts covered — from the AI context problem to con
 
 *#100DaysOfContextEngineering #ContextEngineering #DataQuality #ProductionAI #TechnicalDebt #AIEngineering #AWSCommunityBuilder*
 
-[← Day 13](./Day-13-The-MCP-Client.md) | [Day 15 →](./Day-15-Data-vs-Transport-Layer.md)
+[← Day 13](./Day-13-The-System-Prompt.md) | [Day 15 →](./Day-15-Context-Engineering-laws.md)

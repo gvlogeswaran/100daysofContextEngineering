@@ -428,4 +428,4 @@ With the lifecycle mapped, Day 12 draws on 17+ years of pre/post-trade infrastru
 
 *#100DaysOfContextEngineering #ContextEngineering #DataPipeline #RAG #AIArchitecture #AWSCommunityBuilder*
 
-[← Day 10](./Day-10-Your-First-Mental-Model.md) | [Day 12 →](./Day-12-The-MCP-Host.md)
+[← Day 10](./Day-10-The-Model-Matters.md) | [Day 12 →](./Day-12-personal-experience.md)

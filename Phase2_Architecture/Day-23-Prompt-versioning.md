@@ -414,4 +414,4 @@ aws bedrock deploy-prompt --version 1.2.1
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 22](./Day-22-Notifications-System.md) | [Day 24 →](./Day-24-MCP-SDKs-Landscape.md)
+[← Day 22](./Day-22-Instruction-Hierarchy.md) | [Day 24 →](./Day-24-Context-Compressions.md)

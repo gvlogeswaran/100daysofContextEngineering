@@ -245,9 +245,20 @@ print(f"\nOverall RAG Score: {overall:.2%}")
 #### 7. Benchmarks for Financial RAG
 
 | Metric | Poor | Acceptable | Good | Excellent |
-|
+| :--- | :--- | :--- | :--- | :--- |
+| **Faithfulness** | < 0.80 | 0.80 - 0.90 | 0.90 - 0.95 | > 0.95 |
+| **Answer Relevance**| < 0.70 | 0.70 - 0.85 | 0.85 - 0.90 | > 0.90 |
+| **Context Precision**| < 0.50 | 0.50 - 0.70 | 0.70 - 0.85 | > 0.85 |
+| **Context Recall** | < 0.60 | 0.60 - 0.80 | 0.80 - 0.90 | > 0.90 |
+
+### Summary
+
+In financial and enterprise contexts, **Faithfulness is non-negotiable**. An incomplete but highly grounded answer is always better than a perfectly relevant hallucination. 
+
+By integrating RAGAS directly into your CI/CD pipeline, you stop treating your RAG implementation as a mystical black box and start treating it like a standard, testable software system. Going back to our medical analogy: you can't diagnose or cure what you refuse to measure. Run the tests.
+
 ---
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 31](./Day-31-Debugging-MCP-Servers.md) | [Day 33 →](./Day-33-Timeouts-and-Cancellation.md)
+[← Day 31](./Day-31-Hybrid-search.md) | [Day 33 →](./Day-33-ReRanking.md)

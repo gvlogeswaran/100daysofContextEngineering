@@ -380,4 +380,4 @@ def check_hierarchy_health(system_prompt, test_messages):
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 21](./Day-21-Client-Features-Overview.md) | [Day 23 →](./Day-23-The-MCP-Specification.md)
+[← Day 21](./Day-21-role-persona-prompting.md) | [Day 23 →](./Day-23-Prompt-versioning.md)

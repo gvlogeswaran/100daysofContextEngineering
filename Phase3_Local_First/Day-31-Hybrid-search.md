@@ -289,9 +289,18 @@ financial_hybrid_query = {
 #### Key Terms for Day 31
 
 | Term | What It Means |
-|
+| :--- | :--- |
+| **BM25** | Best Matching 25. A sparse-vector ranking function based on TF-IDF, perfect for exact keyword and phrase matches. |
+| **Dense Vector Search** | Search based on semantic embeddings (e.g., Amazon Titan, Cohere), capturing underlying context rather than exact vocabulary. |
+| **Reciprocal Rank Fusion (RRF)** | A mathematical algorithm that combines multiple ranked lists into a single, cohesive ranking without needing to normalize the underlying raw scores. |
+| **TF-IDF** | Term Frequency-Inverse Document Frequency. The foundation of keyword search; it heavily weights words that appear frequently in a specific document but rarely across the broader corpus. |
+
+### Summary
+
+In complex or highly regulated architectural environments, pure semantic search is rarely enough. If a user searches for exact terminology—whether it's a specific market data product from LSEG, a rigid Basel III compliance metric like the LCR, or a unique API parameter—they need the pinpoint precision that BM25 provides. Hybrid search bridges this gap beautifully. By running keyword and semantic searches in parallel and fusing the results with RRF, you build a retrieval engine that understands both the *meaning* of the question and the *exact vocabulary* required to answer it.
+
 ---
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 30](./Day-30-Your-First-MCP-Server.md) | [Day 32 →](./Day-32-MCP-Inspector-Tool.md)
+[← Day 30](./Day-30-Vector-database.md) | [Day 32 →](./Day-32-RAG-quality.md)

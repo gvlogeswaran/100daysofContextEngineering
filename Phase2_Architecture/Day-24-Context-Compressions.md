@@ -437,4 +437,4 @@ def measure_compression_quality(original, compressed):
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 23](./Day-23-Prompt-versioning.md) | [Day 25 →](./Day-25-Architecture-Review-Mental-Map.md)
+[← Day 23](./Day-23-Prompt-versioning.md) | [Day 25 →](./Day-25-Phase2-recap.md)

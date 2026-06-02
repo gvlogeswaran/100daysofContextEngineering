@@ -186,4 +186,4 @@ Tomorrow we look at what degrades context quality even after good allocation: th
 
 *#100DaysOfContextEngineering #ContextEngineering #TokenEconomics #LLM #AIArchitecture #AWSCommunityBuilder*
 
-[← Day 05](./Day-05-MCP-The-Big-Idea.md) | [Day 07 →](./Day-07-MCP-vs-Alternatives.md)
+[← Day 05](./Day-05-MCP-The-Big-Idea.md) | [Day 07 →](./Day-07-Well-allocated-context.md)

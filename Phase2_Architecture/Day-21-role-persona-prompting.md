@@ -333,4 +333,4 @@ def compare_role_vs_persona(test_trades, ground_truth_decisions):
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 20](./Day-20-MCP-Primitives-Overview.md) | [Day 22 →](./Day-22-Notifications-System.md)
+[← Day 20](./Day-20-Negative-space-in-prompts.md) | [Day 22 →](./Day-22-Instruction-Hierarchy.md)

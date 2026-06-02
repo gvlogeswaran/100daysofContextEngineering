@@ -191,4 +191,4 @@ Tomorrow we zoom out to the full architectural view — the complete six-layer C
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AIEngineering #SystemsDesign #AWSCommunityBuilder*
 
-[← Day 07](./Day-07-MCP-vs-Alternatives.md) | [Day 09 →](./Day-09-Real-World-Use-Cases.md)
+[← Day 07](./Day-07-Well-allocated-context.md) | [Day 09 →](./Day-09-The-Context-Engineering-Stack.md)

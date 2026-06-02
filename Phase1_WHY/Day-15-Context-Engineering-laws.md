@@ -437,4 +437,4 @@ Phase 2 starts tomorrow. The foundation is built.
 
 *#100DaysOfContextEngineering #ContextEngineering #Phase1Complete #AIEngineering #SystemsThinking #AWSCommunityBuilder*
 
-[← Day 14](./Day-14-The-MCP-Server.md) | [Phase 2 Begins: Day 16 →](./Day-16-JSON-RPC-Protocol.md)
+[← Day 14](./Day-14-The-Context_debt.md) | [Phase 2 Begins: Day 16 →](./Day-16-System-Prompts.md)

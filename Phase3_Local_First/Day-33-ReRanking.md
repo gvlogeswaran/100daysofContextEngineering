@@ -141,4 +141,4 @@ Re-ranking is the bridge between raw vector similarity and true semantic relevan
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 32](./Phase3_Local_First/Day-32-RAG-quality.md) | [Day 34 →](./Phase3_Local_First/Day-34-AWS-Bedrock-KnowledgeBases.md)
+[← Day 32](./Day-32-RAG-quality.md) | [Day 34 →](./Day-34-AWS-Bedrock-KnowledgeBases.md)

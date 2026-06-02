@@ -375,4 +375,4 @@ A complete system prompt is the foundation. Day 14 covers what happens when the 
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #SystemPrompt #AIEngineering #AWSCommunityBuilder*
 
-[← Day 12](./Day-12-The-MCP-Host.md) | [Day 14 →](./Day-14-The-MCP-Server.md)
+[← Day 12](./Day-12-personal-experience.md) | [Day 14 →](./Day-14-The-Context_debt.md)

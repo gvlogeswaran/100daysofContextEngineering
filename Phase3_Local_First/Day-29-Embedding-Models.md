@@ -122,10 +122,19 @@ vectors = model.encode(docs, convert_to_tensor=True)
 
 #### 3. Cost vs Quality Matrix
 
-| Model | Cost/1M | Quality | Latency | Best For |
-|
+| Model | Cost/1M Tokens | Quality | Latency | Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **OpenAI `text-embedding-3-large`** | ~$0.13[cite: 6] | Excellent | Medium (API overhead) | Premium accuracy, non-financial domains[cite: 6]. |
+| **Amazon Titan Embeddings v2** | Highly Cost-Effective (150x cheaper)[cite: 6] | Good | Very Low (<100ms)[cite: 6] | AWS-native systems, financial applications[cite: 6]. |
+| **Cohere Embed v3.0** | Mid-tier[cite: 6] | Very Good | Low (API overhead) | Multilingual RAG, balanced cost/quality[cite: 6]. |
+| **BAAI/bge-large-en-v1.5** | Free (Compute infrastructure only)[cite: 6] | Good | Variable (Depends on your GPU) | High-volume, cost-sensitive architectures, avoiding vendor lock-in[cite: 6]. |
+
+### Summary
+
+Your choice of embedding model fundamentally dictates the ceiling of your RAG application's performance. If you are operating entirely within the AWS ecosystem and need sub-100ms latency at scale, Amazon Titan v2 is incredibly difficult to beat on price-to-performance[cite: 6]. However, if your use case demands absolute top-tier semantic understanding across complex reasoning tasks—and you have the budget for it—OpenAI remains the gold standard[cite: 6]. For strict data privacy and air-gapped environments, spinning up an open-source model like BGE is the way to go[cite: 6]. Choose the right foundation first, because migrating vector databases later is a massive headache.
+
 ---
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 28](./Day-28-Local-Security-Model.md) | [Day 30 →](./Day-30-Your-First-MCP-Server.md)
+[← Day 28](./Day-28-Chunking-strategy.md) | [Day 30 →](./Day-30-Vector-database.md)

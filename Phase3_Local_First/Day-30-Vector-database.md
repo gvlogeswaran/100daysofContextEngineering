@@ -275,9 +275,18 @@ results = client.search(index="financial-docs", body=hybrid_query)
 #### Key Terms for Day 30
 
 | Term | What It Means |
-|
+| :--- | :--- |
+| **HNSW (Hierarchical Navigable Small World)** | The industry-standard graph-based index for approximate nearest neighbor search. It trades a tiny bit of perfect accuracy for massive speed gains by navigating a layered graph of vectors. |
+| **Cosine Similarity** | A mathematical metric that measures the cosine of the angle between two vectors. It is the standard way to determine how "semantically close" two text embeddings are, regardless of their magnitude. |
+| **KNN (K-Nearest Neighbors)** | The foundational algorithm used to find the 'K' (e.g., 5 or 10) closest vectors to your query vector in the database. |
+| **Upsert** | A database operation that inserts a new vector/document if it doesn't already exist, or updates it if it does (based on the ID). Essential for keeping RAG knowledge bases fresh. |
+
+### Summary
+
+A vector database transforms raw mathematical embeddings into a highly searchable, low-latency engine. Without an index like HNSW, finding semantic matches is computationally disastrous at scale. By leveraging managed tools like Pinecone or AWS OpenSearch Serverless—or even extending existing PostgreSQL clusters with `pgvector`—you can give your RAG pipeline the speed, scalability, and metadata filtering it needs to operate flawlessly in a production environment. 
+
 ---
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 29](./Day-29-Subprocess-Management.md) | [Day 31 →](./Day-31-Debugging-MCP-Servers.md)
+[← Day 29](./Day-29-Embedding-Models.md) | [Day 31 →](./Day-31-Hybrid-search.md)

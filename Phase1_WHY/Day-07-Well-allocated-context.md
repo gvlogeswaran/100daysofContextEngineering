@@ -277,4 +277,4 @@ Now that you understand what degrades context quality, tomorrow we draw the clea
 
 *#100DaysOfContextEngineering #ContextEngineering #DataQuality #RAG #AIEngineering #AWSCommunityBuilder*
 
-[← Day 06](./Day-06-Context-window.md) | [Day 08 →](./Day-08-The-MCP-Ecosystem.md)
+[← Day 06](./Day-06-Context-window.md) | [Day 08 →](./Day-08-Context-vs-Promt-Engineering.md)

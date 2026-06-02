@@ -252,4 +252,4 @@ Tomorrow we put a number on it: the empirical case for why investing in context 
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #AIArchitecture #SystemsDesign #AWSCommunityBuilder*
 
-[← Day 08](./Day-08-The-MCP-Ecosystem.md) | [Day 10 →](./Day-10-Your-First-Mental-Model.md)
+[← Day 08](./Day-08-Context-vs-Promt-Engineering.md) | [Day 10 →](./Day-10-The-Model-Matters.md)

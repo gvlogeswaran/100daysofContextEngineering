@@ -233,4 +233,4 @@ Now that you know the four types of context, we tackle the hard constraint they 
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #AIEngineering #PromptEngineering #LLM #AWSCommunityBuilder*
 
-[← Day 04](./Day-04-The-MxN-Problem.md) | [Day 06 →](./Day-06-MCP-Origin-Story.md)
+[← Day 04](./Day-04-ContextEngineering-Intro.md) | [Day 06 →](./Day-06-Context-window.md)

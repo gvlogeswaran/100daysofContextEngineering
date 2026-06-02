@@ -213,4 +213,4 @@ With the foundational mental model established, Phase 2 moves to implementation.
 
 *#100DaysOfContextEngineering #ContextEngineering #AIEngineering #MindsetShift #ProductionAI #AWSCommunityBuilder*
 
-[← Day 09](./Day-09-Real-World-Use-Cases.md) | [Phase 2 Begins: Day 11 →](./Day-11-MCP-Architecture-Overview.md)
+[← Day 09](./Day-09-The-Context-Engineering-Stack.md) | [Phase 2 Begins: Day 11 →](./Day-11-Context-Engineering-LifeCycle.md)

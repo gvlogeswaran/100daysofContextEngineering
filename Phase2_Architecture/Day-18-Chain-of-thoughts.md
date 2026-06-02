@@ -270,4 +270,4 @@ Good: Step N: "Violations found: [list]. Decision: [final]"
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 17](./Day-17-Lifecycle-Management.md) | [Day 19 →](./Day-19-Protocol-Versioning.md)
+[← Day 17](./Day-17-6-Prompt-Patterns.md) | [Day 19 →](./Day-19-few-shot-example.md)

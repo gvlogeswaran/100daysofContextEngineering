@@ -317,4 +317,4 @@ def production_compliance_analysis(trade):
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 16](./Day-16-JSON-RPC-2-The-Protocol-Language.md) | [Day 18 →](./Day-18-Capability-Negotiation.md)
+[← Day 16](./Day-16-System-Prompts.md) | [Day 18 →](./Day-18-Chain-of-thoughts.md)

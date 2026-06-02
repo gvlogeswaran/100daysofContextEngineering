@@ -295,4 +295,4 @@ def measure_few_shot_impact(task_data, true_labels):
 
 *#100DaysOfContextEngineering #ContextEngineering #PromptEngineering #AWSCommunityBuilder*
 
-[← Day 18](./Day-18-Capability-Negotiation.md) | [Day 20 →](./Day-20-MCP-Primitives-Overview.md)
+[← Day 18](./Day-18-Chain-of-thoughts.md) | [Day 20 →](./Day-20-Negative-space-in-prompts.md)

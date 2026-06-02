@@ -129,4 +129,4 @@ Now that we understand Context Engineering as a discipline with multiple valid i
 
 *Published: April 8, 2026 | #100DaysOfContextEngineering #ContextEngineering #MCP #AIEngineering #AgenticAI #AWSCommunityBuilder*
 
-[← Day 02](./Day-02-How-LLMs-Actually-Work.md) | [Day 04 →](./Day-04-The-MxN-Problem.md)
+[← Day 02](./Day-02-How-LLMs-Actually-Work.md) | [Day 04 →](./Day-04-ContextEngineering-Intro.md)

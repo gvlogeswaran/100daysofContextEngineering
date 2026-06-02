@@ -328,9 +328,18 @@ chunks = production_chunk(financial_docs, doc_type="financial")
 #### Key Terms for Day 28
 
 | Term | What It Means |
-|
+| :--- | :--- |
+| **Fixed-Size Chunking** | Splitting text by a rigid character or token count. Fast and cheap, but often destroys contextual meaning by slicing mid-sentence or mid-table. |
+| **Semantic Chunking** | Splitting text based on topic changes or semantic boundaries using embeddings. More computationally expensive, but yields much higher quality retrieval. |
+| **Hierarchical Chunking** | Creating nested representations of a document (e.g., full summary → section summary → paragraph detail) allowing the RAG system to retrieve at the appropriate level of granularity. |
+| **Chunk Overlap** | Intentionally duplicating a small number of tokens (usually 50-100) at the boundaries of adjacent chunks to ensure no context is lost where the split occurs. |
+
+### Summary
+
+Chunking is the invisible foundation of RAG quality. While fixed-size chunking is fast and cheap, it routinely destroys the context of structured data, which is a massive liability for complex financial clauses or tables. Semantic and hierarchical chunking cost more in compute and time during the ingestion phase, but they pay massive dividends in retrieval accuracy and LLM comprehension. In production, always adapt your chunking strategy to your specific data type—never treat a dense regulatory filing the same way you treat a basic news article. 
+
 ---
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 27](./Day-27-Stdio-Transport-Deep-Dive.md) | [Day 29 →](./Day-29-Subprocess-Management.md)
+[← Day 27](./Day-27-Long-term-memory.md) | [Day 29 →](./Day-29-Embedding-Models.md)
