@@ -230,4 +230,4 @@ AWS Bedrock Knowledge Bases act as a massive accelerator for standard RAG worklo
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 33](./Day-33-ReRanking.md) 
+[← Day 33](./Day-33-ReRanking.md) | [Day 35 →](./Day-35-RAG-Financial.md)
