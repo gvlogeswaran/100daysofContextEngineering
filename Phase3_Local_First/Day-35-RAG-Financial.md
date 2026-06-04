@@ -225,4 +225,4 @@ Unique challenges of building Retrieval-Augmented Generation (RAG) pipelines for
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 34](./Day-34-AWS-Bedrock-KnowledgeBases.md)
+[← Day 34](./Day-34-AWS-Bedrock-KnowledgeBases.md) | [Day 36 →](./Day-36-Memory-architecture.md)
