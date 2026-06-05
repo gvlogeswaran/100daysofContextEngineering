@@ -264,4 +264,4 @@ Now that you understand the four memory types at an architectural level, Day 37 
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 35](./Day-35-RAG-Financial.md)
+[← Day 35](./Day-35-RAG-Financial.md) | [Day 37 →](./Day-37-Short-term-memory.md)

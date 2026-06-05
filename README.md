@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day36%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day37%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -76,8 +76,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 33 | ✅ Posted | [Re-ranking: The Secret Weapon in Production RAG](./Phase3_Local_First/Day-33-ReRanking.md) |
 | 34 | ✅ Posted | [AWS Bedrock Knowledge Bases: RAG Without the Plumbing](./Phase3_Local_First/Day-34-AWS-Bedrock-KnowledgeBases.md) |
 | 35 | ✅ Posted | [RAG for Financial Documents: Unique Challenges](./Phase3_Local_First/Day-35-RAG-Financial.md) |
-| 36 | 🔥 Today | [Memory Architecture: The 4 Types an AI Agent Needs](./Phase3_Local_First/Day-36-Memory-architecture.md) |
-| 37 | 🔜 Coming Next | Position Risk Context Management |
+| 36 | ✅ Posted | [Memory Architecture: The 4 Types an AI Agent Needs](./Phase3_Local_First/Day-36-Memory-architecture.md) |
+| 37 | 🔥 Today | [Short-Term Memory: Managing the Conversation Buffer](./Phase3_Local_First/Day-37-Short-term-memory.md) |
+| 38 | 🔜 Coming Next | Working Memory: The Agent Scratchpad Pattern |
 
 
 ---
@@ -127,5 +128,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day36%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day37%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
