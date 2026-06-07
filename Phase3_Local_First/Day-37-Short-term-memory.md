@@ -188,4 +188,4 @@ Short-term memory handles *conversation history*, but agents also need a private
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 36](./Day-36-Memory-architecture.md)
+[← Day 36](./Day-36-Memory-architecture.md) | [Day 38 →](./Day-38-Working-Memory.md)
