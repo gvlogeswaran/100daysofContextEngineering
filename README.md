@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day38%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day39%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -78,8 +78,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 35 | ✅ Posted | [RAG for Financial Documents: Unique Challenges](./Phase3_Local_First/Day-35-RAG-Financial.md) |
 | 36 | ✅ Posted | [Memory Architecture: The 4 Types an AI Agent Needs](./Phase3_Local_First/Day-36-Memory-architecture.md) |
 | 37 | ✅ Posted | [Short-Term Memory: Managing the Conversation Buffer](./Phase3_Local_First/Day-37-Short-term-memory.md) |
-| 38 | 🔥 Today | [Working Memory: The Agent Scratchpad Pattern](./Phase3_Local_First/Day-38-Working-Memory.md) |
-| 39 | 🔜 Coming Next | Working Memory: The Agent Scratchpad Pattern |
+| 38 | ✅ Posted | [Working Memory: The Agent Scratchpad Pattern](./Phase3_Local_First/Day-38-Working-Memory.md) |
+| 39 | 🔥 Today | [Episodic Memory: Teaching Agents to Remember Past Interactions](./Phase3_Local_First/Day_39_Episodic-Memory.md) |
+| 40 | 🔜 Coming Next | Long-Term Memory: Vector Store + Entity Extraction |
 
 
 ---
@@ -129,5 +130,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day38%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day39%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*

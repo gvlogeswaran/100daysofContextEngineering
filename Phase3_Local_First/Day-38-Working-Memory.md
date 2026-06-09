@@ -289,4 +289,4 @@ The scratchpad is cleared after every task — it is purely transient. Day 39 in
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 37](./Day-37-Short-term-memory.md)
+[← Day 37](./Day-37-Short-term-memory.md) | [Day 39 →](./Day_39_Episodic-Memory.md)
