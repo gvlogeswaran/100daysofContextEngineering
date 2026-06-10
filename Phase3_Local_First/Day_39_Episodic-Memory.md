@@ -263,4 +263,4 @@ Episodic memory is per-user and event-based. Day 40 introduces long-term semanti
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 38](./Day-38-Working-Memory.md)
+[← Day 38](./Day-38-Working-Memory.md) | [Day 40 →](./Day-40-long-term-memory.md)
