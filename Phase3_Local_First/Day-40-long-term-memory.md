@@ -257,4 +257,4 @@ Long-term memory is powerful — but it accumulates forever unless you actively 
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 39](./Day_39_Episodic-Memory.md)
+[← Day 39](./Day_39_Episodic-Memory.md) | [Day 41 →](./Day-Day-41-Memory-decay.md)
