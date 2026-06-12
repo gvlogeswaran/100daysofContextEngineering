@@ -82,8 +82,7 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 39 | ✅ Posted | [Episodic Memory: Teaching Agents to Remember Past Interactions](./Phase3_Local_First/Day_39_Episodic-Memory.md) |
 | 40 | ✅ Posted | [Long-Term Memory: Vector Store + Entity Extraction](./Phase3_Local_First/Day-40-long-term-memory.md) |
 | 41 | ✅ Posted | [Day 41 — Memory Decay and Intentional Forgetting](./Phase3_Local_First/Day-41-Memory-decay.md) |
-| 42 | 🔥 Today | [Day 42 — Building a Memory System on AWS] |
-(./Phase3_Local_First/Day-42-Building-memory.md) |
+| 42 | 🔥 Today | [Day 42 — Building a Memory System on AWS](./Phase3_Local_First/Day-42-Building-memory.md) |
 | 43 | 🔜 Coming Next | Day 43 — Context Window Management: The Sliding Window Pattern |
 
 
