@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day41%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day42%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -81,8 +81,10 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 38 | ✅ Posted | [Working Memory: The Agent Scratchpad Pattern](./Phase3_Local_First/Day-38-Working-Memory.md) |
 | 39 | ✅ Posted | [Episodic Memory: Teaching Agents to Remember Past Interactions](./Phase3_Local_First/Day_39_Episodic-Memory.md) |
 | 40 | ✅ Posted | [Long-Term Memory: Vector Store + Entity Extraction](./Phase3_Local_First/Day-40-long-term-memory.md) |
-| 41 | 🔥 Today | [Day 41 — Memory Decay and Intentional Forgetting](./Phase3_Local_First/Day-41-Memory-decay.md) |
-| 42 | 🔜 Coming Next | Day 42 — Building a Memory System on AWS |
+| 41 | ✅ Posted | [Day 41 — Memory Decay and Intentional Forgetting](./Phase3_Local_First/Day-41-Memory-decay.md) |
+| 42 | 🔥 Today | [Day 42 — Building a Memory System on AWS]
+(./Phase3_Local_First/Day-42-Building-memory.md) |
+| 43 | 🔜 Coming Next | Day 43 — Context Window Management: The Sliding Window Pattern |
 
 
 ---
@@ -132,5 +134,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day41%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day42%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*

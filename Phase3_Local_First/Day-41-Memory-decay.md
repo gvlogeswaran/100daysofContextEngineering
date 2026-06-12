@@ -237,4 +237,4 @@ Day 41 covered what to keep and what to delete. Day 42 puts it all together: a c
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 40](./Day-40-long-term-memory.md)
+[← Day 40](./Day-40-long-term-memory.md) | [Day 43 →](./Day-42-Building-memory.md)
