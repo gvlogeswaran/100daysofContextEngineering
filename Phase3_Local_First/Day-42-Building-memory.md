@@ -284,4 +284,4 @@ The Lambda pipeline now assembles rich context from multiple sources. Day 43 add
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 41](./Day-41-Memory-decay.md)
+[← Day 41](./Day-41-Memory-decay.md) | [Day 43 →](./Day-43-Context-Window.md)
