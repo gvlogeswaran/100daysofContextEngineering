@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day43%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day44%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -83,8 +83,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 40 | ✅ Posted | [Long-Term Memory: Vector Store + Entity Extraction](./Phase3_Local_First/Day-40-long-term-memory.md) |
 | 41 | ✅ Posted | [Day 41 — Memory Decay and Intentional Forgetting](./Phase3_Local_First/Day-41-Memory-decay.md) |
 | 42 | ✅ Posted | [Day 42 — Building a Memory System on AWS](./Phase3_Local_First/Day-42-Building-memory.md) |
-| 43 | 🔥 Today | [Day 43 — Context Window Management: The Sliding Window Pattern](./Phase3_Local_First/Day-43-Context-Window.md) |
-| 44 | 🔜 Coming Next | Day 44 — Agentic RAG: When the Agent Decides What to Retrieve |
+| 43 | ✅ Posted | [Day 43 — Context Window Management: The Sliding Window Pattern](./Phase3_Local_First/Day-43-Context-Window.md) |
+| 44 | 🔥 Today | Day 44 — [Agentic RAG: When the Agent Decides What to Retrieve](./Phase3_Local_First/Day-44-Agentic-RAG.md) |
+| 45 | 🔜 Coming Next | Day 45 — Phase 3 Summary |
 
 ---
 
@@ -133,5 +134,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day43%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day44%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*

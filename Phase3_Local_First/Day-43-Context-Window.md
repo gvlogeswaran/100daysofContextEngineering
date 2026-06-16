@@ -335,4 +335,4 @@ The sliding window manages conversation history. But the RAG context slot (20K t
 
 *#100DaysOfContextEngineering #ContextEngineering #RAG #MemoryArchitecture #AWSCommunityBuilder*
 
-[← Day 42](./Day-42-Building-memory.md)
+[← Day 42](./Day-42-Building-memory.md) | [Day 45 →](./Day-44-Agentic-RAG.md)
