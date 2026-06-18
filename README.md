@@ -85,8 +85,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 42 | ✅ Posted | [Day 42 — Building a Memory System on AWS](./Phase3_Local_First/Day-42-Building-memory.md) |
 | 43 | ✅ Posted | [Day 43 — Context Window Management: The Sliding Window Pattern](./Phase3_Local_First/Day-43-Context-Window.md) |
 | 44 | ✅ Posted | [Day 44 — Agentic RAG: When the Agent Decides What to Retrieve](./Phase3_Local_First/Day-44-Agentic-RAG.md) |
-| 45 | 🔥 Today | [Day 45 — Phase 3 Summary](./Phase3_Local_First/Day-45-Phase-3-Review.md) |
-| 46 | 🔜 Coming Next | Day 46 — MCP — Welcome Back. Now You’re Ready |
+| 45 | ✅ Posted | [Day 45 — Phase 3 Summary](./Phase3_Local_First/Day-45-Phase-3-Review.md) |
+| 46 | 🔥 Today | [Day 46 — MCP — Welcome Back. Now You’re Ready](./Phase4_Primitives/Day_46_MCP_Welcome_Back.md) |
+| 47 | 🔜 Coming Next | Day 47 — MCP Architecture — Host, Client, Server |
 
 ---
 
