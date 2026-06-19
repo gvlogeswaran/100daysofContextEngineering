@@ -266,8 +266,8 @@ This is why MCP servers are safer to expose than direct API access. A compromise
 
 #### Official References
 - [MCP Architecture Overview](https://modelcontextprotocol.io/docs/concepts/architecture)
-- [Client Implementation Guide](https://modelcontextprotocol.io/docs/client/guide)
-- [Server Implementation Guide](https://modelcontextprotocol.io/docs/server/guide)
+- [Client Implementation Guide](https://modelcontextprotocol.io/docs/develop/build-client)
+- [Server Implementation Guide](https://modelcontextprotocol.io/docs/develop/build-server)
 
 ---
 
