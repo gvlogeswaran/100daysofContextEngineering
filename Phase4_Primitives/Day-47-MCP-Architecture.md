@@ -273,4 +273,4 @@ This is why MCP servers are safer to expose than direct API access. A compromise
 
 *#100DaysOfContextEngineering #ContextEngineering #MCP #ModelContextProtocol #AWSCommunityBuilder*
 
-[← Day 46](./Day-46-MCP-Welcome-Back-Now-Youre-Ready.md) | [Day 48 →](./Day-48-JSON-RPC-The-Language-MCP-Speaks.md)
+[← Day 46](./Day_46_MCP_Welcome_Back.md)
