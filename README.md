@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day45%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day47%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -86,8 +86,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 43 | ✅ Posted | [Day 43 — Context Window Management: The Sliding Window Pattern](./Phase3_Local_First/Day-43-Context-Window.md) |
 | 44 | ✅ Posted | [Day 44 — Agentic RAG: When the Agent Decides What to Retrieve](./Phase3_Local_First/Day-44-Agentic-RAG.md) |
 | 45 | ✅ Posted | [Day 45 — Phase 3 Summary](./Phase3_Local_First/Day-45-Phase-3-Review.md) |
-| 46 | 🔥 Today | [Day 46 — MCP — Welcome Back. Now You’re Ready](./Phase4_Primitives/Day_46_MCP_Welcome_Back.md) |
-| 47 | 🔜 Coming Next | Day 47 — MCP Architecture — Host, Client, Server |
+| 46 | ✅ Posted | [Day 46 — MCP — Welcome Back. Now You’re Ready](./Phase4_Primitives/Day_46_MCP_Welcome_Back.md) |
+| 47 | 🔥 Today | [Day 47 — MCP Architecture — Host, Client, Server](./Phase4_Primitives/Day-47-MCP-Architecture.md) |
+| 48 | 🔜 Coming Next | Day 48 — JSON-RPC 2.0 — The Language MCP Speaks |
 
 ---
 
@@ -136,5 +137,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day45%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day47%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*
