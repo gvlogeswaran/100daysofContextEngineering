@@ -386,4 +386,4 @@ This is the core pattern. Every MCP server does this: receive JSON-RPC, validate
 
 *#100DaysOfContextEngineering #ContextEngineering #MCP #ModelContextProtocol #AWSCommunityBuilder*
 
-[← Day 47](./Day-47-MCP-Architecture.md)
+[← Day 47](./Day-47-MCP-Architecture.md) | [Day 49 →](./Day-49-MCP-Transports.md)
