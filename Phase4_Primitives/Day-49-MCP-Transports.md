@@ -214,4 +214,4 @@ The server code stayed the same. Only the transport changed.
 
 *#100DaysOfContextEngineering #ContextEngineering #MCP #ModelContextProtocol #AWSCommunityBuilder*
 
-[← Day 48](./Day-48-JSON-RPC.md)
+[← Day 48](./Day-48-JSON-RPC.md) | [Day 50 →](./Day-50-MCP-Tools.md)
