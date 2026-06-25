@@ -9,7 +9,7 @@ Every day for 100 days, I publish one production-grade insight on **Context Engi
 No theory fluff. Builder-to-builder. 17+ years of financial markets infrastructure informing every pattern.
 
 [![GitHub Stars](https://img.shields.io/github/stars/gvlogeswaran/100daysofContextEngineering?style=flat&logo=github)](https://github.com/gvlogeswaran/100daysofContextEngineering)
-[![Progress](https://img.shields.io/badge/Progress-Day50%20of%20100-brightgreen?style=flat)](#progress-tracker)
+[![Progress](https://img.shields.io/badge/Progress-Day51%20of%20100-brightgreen?style=flat)](#progress-tracker)
 
 ---
 
@@ -90,8 +90,9 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 47 | ✅ Posted | [Day 47 — MCP Architecture — Host, Client, Server](./Phase4_Primitives/Day-47-MCP-Architecture.md) |
 | 48 | ✅ Posted | [Day 48 — JSON-RPC 2.0 — The Language MCP Speaks](./Phase4_Primitives/Day-48-JSON-RPC.md) |
 | 49 | ✅ Posted | [Day 49 — MCP Transports — Stdio vs HTTP+SSE. Pick the Right One](./Phase4_Primitives/Day-49-MCP-Transports.md) |
-| 50 | 🔥 Today | [Day 50 — MCP Tools — Giving Your Model the Ability to Act](./Phase4_Primitives/Day-50-MCP-Tools.md) |
-| 51 | 🔜 Coming Next | Day 51 — MCP Resources — Read-Only Context Windows Into Your Data |
+| 50 | ✅ Posted | [Day 50 — MCP Tools — Giving Your Model the Ability to Act](./Phase4_Primitives/Day-50-MCP-Tools.md) |
+| 51 | 🔥 Today | [Day 51 — MCP Resources — Read-Only Context Windows Into Your Data](./Phase4_Primitives/Day-51-MCP-Resources.md) |
+| 52 | 🔜 Coming Next | Day 51 — MCP Resources — Read-Only Context Windows Into Your Data |
 
 ---
 
@@ -140,5 +141,5 @@ no
 
 ---
 
-![Progress](https://img.shields.io/badge/Day50%20of%20100-In%20Progress-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Day51%20of%20100-In%20Progress-orange?style=for-the-badge)
 *Series started April 2026 · Updated daily*

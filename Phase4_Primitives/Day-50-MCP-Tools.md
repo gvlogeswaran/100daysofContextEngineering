@@ -290,4 +290,4 @@ async def place_order(...) -> str:
 
 *#100DaysOfContextEngineering #ContextEngineering #MCP #ModelContextProtocol #AWSCommunityBuilder*
 
-[← Day 49](./Day-49-MCP-Transports.md)
+[← Day 49](./Day-49-MCP-Transports.md)| [Day 50 →](./Day-50-MCP-Tools.md)
