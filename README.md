@@ -92,7 +92,7 @@ Layer 6 — Protocol Delivery       (MCP — live, composable, production-grade)
 | 49 | ✅ Posted | [Day 49 — MCP Transports — Stdio vs HTTP+SSE. Pick the Right One](./Phase4_Primitives/Day-49-MCP-Transports.md) |
 | 50 | ✅ Posted | [Day 50 — MCP Tools — Giving Your Model the Ability to Act](./Phase4_Primitives/Day-50-MCP-Tools.md) |
 | 51 | 🔥 Today | [Day 51 — MCP Resources — Read-Only Context Windows Into Your Data](./Phase4_Primitives/Day-51-MCP-Resources.md) |
-| 52 | 🔜 Coming Next | Day 51 — MCP Resources — Read-Only Context Windows Into Your Data |
+| 52 | 🔜 Coming Next | Day 52 — MCP Prompts — Reusable Context Templates at Scale |
 
 ---
 
